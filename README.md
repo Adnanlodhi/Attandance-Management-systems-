@@ -1,2 +1,2 @@
-# Attandance-Management-systems-
-It is used to manage Attandaces instead of Biometric of register .in you just take picture and automatically your attandance taken.
+# Attandance-Management-system-
+It is used to manage attendance instead of using biometric devices or registers. You simply take a picture, and your attendance is marked automatically.
